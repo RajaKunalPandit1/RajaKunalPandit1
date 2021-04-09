@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajaKunalPandit1
 - 👀 I’m interested in Coding and reading books.
 - 🌱 I’m currently learning Data Structures and Algorithm
-- 💞️ I’m looking to collaborate on Open source Software
+- 💞️ I’m looking to Practice as many as questions as I can.
 - 📫 How to reach me? Just mail me @ rajakunalpandit1@gmail.com
 
 <!---
