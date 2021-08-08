@@ -28,7 +28,6 @@
     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
-<br/>
 
 <details open="">
 <summary>
@@ -47,7 +46,8 @@
 </p>
 </details>
 <br>
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=JayantGoel001&theme=react-dark&hide_border=true&area=true)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=RajaKunalPandit1&theme=react-dark&hide_border=true&area=true)
 
 <h1>
   Connect With Me
