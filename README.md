@@ -23,9 +23,9 @@
 
 <p align="center">
   <a>
-    <img height="100" width="125" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaKunalPandit1&theme=dark&hide_border=true"/>
-    <img height="100" width="125" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+    <img align="left" height="100" width="125" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaKunalPandit1&theme=dark&hide_border=true"/>
+    <img align="right" height="100" width="125" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
   </a>
 </p>
 
