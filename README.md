@@ -79,6 +79,9 @@
 <br/>
 
 <p align="center">
+  <a href="https://www.codechef.com/users/kunal_42" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+  </a>
   <a href="https://www.hackerrank.com/rajakunalpandit1?hr_r=1" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
   </a>
@@ -91,9 +94,7 @@
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
   </a>
  
-  <a href="https://www.codechef.com/users/kunal_42" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
+  
 </p>
 
 <br/>
