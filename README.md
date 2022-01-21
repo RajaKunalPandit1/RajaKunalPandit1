@@ -25,9 +25,9 @@
 
 <p align="center">
   <a>
-    <img align="left" height="100" width="100" src="https://img.favpng.com/18/20/0/buffalo-wing-free-content-clip-art-png-favpng-PWW6z6wXQXK1XVyBLF9gJqHuq.jpg">
+    <img align="left" height="100" width="100" src="https://toppng.com/uploads/preview/left-wing-left-wing-transparent-background-11563643069lspunqf2at.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaKunalPandit1&theme=dark&hide_border=true"/>
-    <img align="right" height="100" width="100" src="https://www.clipartmax.com/png/middle/49-493079_wing-clip-art-at-clker-bird-wings-png.png">
+    <img align="right" height="100" width="100" src="https://www.clipartmax.com/png/middle/113-1134695_right-wing-png.png">
   </a>
 </p>
 
