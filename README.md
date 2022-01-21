@@ -83,11 +83,11 @@
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
   </a>
   <a href="https://www.hackerrank.com/rajakunalpandit1?hr_r=1" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
+    <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"/></code>
   </a>
 
   <a href="https://codeforces.com/profile/Rajakunalpandit" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
+    <code><img height="60" width="60" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR"/></code>
   </a>
 
   <a href="https://www.hackerearth.com/@rajakunalpandit1" target="_blank">
