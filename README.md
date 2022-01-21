@@ -27,7 +27,7 @@
   <a>
     <img align="left" height="100" width="100" src="https://toppng.com/uploads/preview/left-wing-left-wing-transparent-background-11563643069lspunqf2at.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajaKunalPandit1&theme=dark&hide_border=true"/>
-    <img align="right" height="100" width="100" src="https://www.clipartmax.com/png/middle/113-1134695_right-wing-png.png">
+    <img align="right" height="100" width="100" src="https://image.pngaaa.com/294/789294-middle.png">
   </a>
 </p>
 
