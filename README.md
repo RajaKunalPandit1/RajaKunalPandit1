@@ -22,7 +22,6 @@
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **The Harder the Battle, The Sweeter the Victory**
 - 📫 How to reach me? Just mail me @ **rajakunalpandit1@gmail.com**
 
-
 <p align="center">
   <a>
     <img align="left" height="100" width="100" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/WEBP/left.webp">
