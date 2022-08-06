@@ -60,7 +60,7 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/raja-kunal-pandit-1481681bb/" target="_blank">
-    <code><img height="60" width="60" src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif"/></code>
+    <code><img src="https://user-images.githubusercontent.com/54509629/135730249-efac72bc-a6e2-4d31-a693-864bbbc2afac.gif"/></code>
    </a>
      <a href="https://leetcode.com/rajakunalpandit/" target="_blank">
     <code><img  height="60" width="60" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png"/></code>
