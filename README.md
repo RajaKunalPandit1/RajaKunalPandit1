@@ -90,7 +90,7 @@
   </a>
 
   <a href="https://www.hackerearth.com/@rajakunalpandit1" target="_blank">
-    <code><img height="60" width="60" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_logo.png"/></code>
+    <code><img height="60" width="60" src="[https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_logo.png](https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png)"/></code>
   </a>
  
   
