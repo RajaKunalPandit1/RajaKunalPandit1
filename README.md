@@ -1,6 +1,6 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://i.pinimg.com/originals/2b/07/f6/2b07f62987e987d4e53e84aa8b963b83.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
@@ -82,7 +82,7 @@
     <code><img height="60" width="60" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png"/></code>
   </a>
   <a href="https://www.hackerrank.com/rajakunalpandit1?hr_r=1" target="_blank">
-    <code><img height="60" width="60" src="https://www.iconbolt.com/preview/facebook/coreui-brand/hackerearth.svg"/></code>
+    <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"/></code>
   </a>
 
   <a href="https://codeforces.com/profile/Rajakunalpandit" target="_blank">
