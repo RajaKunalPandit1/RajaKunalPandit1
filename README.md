@@ -66,10 +66,10 @@
     <code><img  height="60" width="60" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png"/></code>
   </a> 
     <a href="https://auth.geeksforgeeks.org/user/rajakunalpandit/practice/" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/></code>
+    <code><img height="60" width="60" src="https://media.geeksforgeeks.org/wp-content/uploads/20210511160813/g4g.jpg"/></code>
   </a> 
   <a href="https://twitter.com/YashSha28221206" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://e7.pngegg.com/pngimages/617/28/png-clipart-twitter-logo-blue-sky-wing-beak-font-twitter-blue-social-media.png"/></code>
   </a>
 <!--   <a href="https://dev.to/jayantgoel001">
     <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
@@ -79,7 +79,7 @@
 
 <p align="center">
   <a href="https://www.codechef.com/users/kunal_42" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
+    <code><img height="60" width="60" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png"/></code>
   </a>
   <a href="https://www.hackerrank.com/rajakunalpandit1?hr_r=1" target="_blank">
     <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"/></code>
@@ -90,7 +90,7 @@
   </a>
 
   <a href="https://www.hackerearth.com/@rajakunalpandit1" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
+    <code><img height="60" width="60" src="https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_logo.png"/></code>
   </a>
  
   
