@@ -82,7 +82,7 @@
     <code><img height="60" width="60" src="https://icons-for-free.com/download-icon-codechef-1324440139527402917_512.png"/></code>
   </a>
   <a href="https://www.hackerrank.com/rajakunalpandit1?hr_r=1" target="_blank">
-    <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png"/></code>
+    <code><img height="60" width="60" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png](https://www.iconbolt.com/preview/facebook/coreui-brand/hackerearth.svg"/></code>
   </a>
 
   <a href="https://codeforces.com/profile/Rajakunalpandit" target="_blank">
@@ -90,7 +90,7 @@
   </a>
 
   <a href="https://www.hackerearth.com/@rajakunalpandit1" target="_blank">
-    <code><img height="60" width="60" src="[https://static-fastly.hackerearth.com/static/hackerearth/images/logo/HE_logo.png](https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png)"/></code>
+    <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png"/></code>
   </a>
  
   
