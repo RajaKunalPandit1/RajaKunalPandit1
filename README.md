@@ -1,6 +1,6 @@
 # Hi, I'm Raja Kunal Pandit 👋
 
-Software developer focused on web development, cloud computing, and competitive programming. Currently open to internship opportunities.
+Software developer focused on web development, cloud computing, and competitive programming. 
 
 [Portfolio](https://rajakunalpandit1.github.io/) • [LinkedIn](https://www.linkedin.com/in/raja-kunal-pandit-1481681bb/) • rajakunalpandit1@gmail.com
 
